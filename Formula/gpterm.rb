@@ -1,8 +1,8 @@
 class Gpterm < Formula
   desc "chat-GPT from the comfort of your terminal. Written in rust of course"
   homepage "https://github.com/frikksol/gpterm"
-  url "https://github.com/frikksol/gpterm/releases/download/v0.1.8/gpterm_v0.1.8_x86_64-apple-darwin.tar.gz"
-  sha256 "f82ff147c5a05a40c728e353ccbac316740dbf1bc5a6ed3f90e99aa6e9268be3"
+  url "https://github.com/frikksol/gpterm/releases/download/v0.1.9/gpterm_v0.1.9_x86_64-apple-darwin.tar.gz"
+  sha256 "b3e244256e759aa263c2d334ce3e46aa2a6e84b96c70c6d991a8bd313556053d"
 
   def install
     bin.install "gpterm"
